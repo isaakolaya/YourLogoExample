@@ -23,4 +23,4 @@ Feature: your logo
 
     Examples:
       | email               | password  | name   | lastName | address        | city  | postalCode | homePhone | mobilePhone | addressTitle | validation                          |
-      | isaak0119@gmail.com | hola12345 | Gloria | Hurtado  | Cra 49A #66-91 | Bello | 05105      | 3876001   | 3015747157  | Casa 4       | Your order on My Store is complete. |
+      | isaak0119@gmail.com | hola12345 | Gloria | Hurtado  | Cra 49A #66-91 | Bello | 05105      | 3876001   | 3015747157  | Casa 5       | Your order on My Store is complete. |
